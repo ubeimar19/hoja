@@ -204,7 +204,7 @@
     <div class="container">
         <!-- Barra lateral -->
         <div class="sidebar">
-            <img src="https://media.licdn.com/dms/image/v2/D5603AQG94swsgQOi2w/profile-displayphoto-shrink_800_800/B56ZWpkc4.HEAc-/0/1742306660624?e=1747872000&v=beta&t=2i6QzcUG3ndJwR_lYk_sQKMRANE2fQw5mdITXlN16dc" alt="Foto de perfil">
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQG94swsgQOi2w/profile-displayphoto-shrink_800_800/B56ZWpkc4.HEAc-/0/1742306660624e=1747872000&v=beta&t=2i6QzcUG3ndJwR_lYk_sQKMRANE2fQw5mdITXlN16dc" alt="Foto de perfil">
             <h2>Ubeimar Iván Herrera Cevallos</h2>
             <div class="contact-info">
                 <p><strong>Correo:</strong> <a href="mailto:ubeimar2121@gmail.com"><i class="fas fa-envelope"></i> ubeimar2121@gmail.com</a></p>
